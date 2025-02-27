@@ -58,7 +58,7 @@ To develop the Interaction Overview Diagram, the following steps were taken:
 
 **3. Interaction Overview Diagram**
 
-![IOD](https://xmfbfpodrpkidxutnxrp.supabase.co/storage/v1/object/public/SDA_Practical//1.jpeg)
+![IOD](https://xmfbfpodrpkidxutnxrp.supabase.co/storage/v1/object/public/SDA_Practical//2.jpeg)
 
 
 ### 🔗 **Components and Explanation**
