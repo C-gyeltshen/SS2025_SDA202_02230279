@@ -9,7 +9,7 @@ This document provides a detailed explanation of the **Interaction Overview Diag
 - Introduction
 - Introduction
 - Objective
--Scope
+- Scope
 - Methodology
 - Diagram Overview
 - Components and Explanation
